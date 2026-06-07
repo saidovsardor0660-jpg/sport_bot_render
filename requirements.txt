@@ -1,6 +1,6 @@
 aiogram==3.7.0
 aiohttp==3.9.5
-aiogram==3.7.0aiogram==3.26.0
+aiogram==3.7.0
 aiohttp==3.13.5
 aiohappyeyeballs==2.6.1
 aiosignal==1.4.0
