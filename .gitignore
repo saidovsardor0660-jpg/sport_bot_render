@@ -1,4 +1,3 @@
-# Token va database GitHub ga yuklanmasin!
 *.db
 __pycache__/
 *.pyc
